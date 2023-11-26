@@ -8,3 +8,9 @@ Los cambios que puedes esperar son:
 el manejo de excepciones, 
 los casos de prueba, 
 los formatos de entrada y salida de algunas funciones.
+
+# Correciones
+
+Tarea 1: se arreglo el nombre de la clase y el nombre del documento para que pueda ser utilizado por el main correctamente
+
+Tarea 7: Se arrelgo la funcion remove en la clase nodo y en la clase SplayTree
